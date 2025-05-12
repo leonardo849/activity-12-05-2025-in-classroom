@@ -4,7 +4,7 @@ custoPorKM = 0
 if kmPercorrida < 500:
     custoPorKM = 0.75
 else:
-    custoPorKM = 0.85
+    custoPorKM = 0.65
 
 
 valorFinal = 20 + (custoPorKM * kmPercorrida)
